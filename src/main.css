@@ -48,6 +48,7 @@ h3 {
     font-size: 25px;
     color: white;
     background-color: darkgreen;
+    padding: 5px;
 }
 
 
@@ -61,17 +62,14 @@ h3 {
 
 .wrapper {
     min-width: 300px;
-    /* max-width: 1100px; */
 }
 
 .gallery {
     border: 1px solid gray;
     color: white;
     min-width: 300px;
-    /* max-width: auto; */
     padding: 40px;
     background: linear-gradient(#e66465, #9198e5);
-    /* border: 1px solid white; */
 }
 
 .gallery__item {
@@ -92,10 +90,6 @@ footer {
     text-align: center;
 }
 
-.wrapper p {
-    padding-right: 15px;
-}
-
 a:hover {
     color: red;
 }
@@ -104,11 +98,6 @@ ul,
 li {
     color: white;
     font-size: 21px;
-}
-
-i {
-    color: white;
-    font-family: arial;
 }
 
 @media only screen and (max-width: 600px) {
@@ -122,4 +111,5 @@ i {
 
 .wrapper p {
     max-width: 70%;
+    padding-right: 15px;
 }
