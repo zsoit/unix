@@ -1,6 +1,6 @@
 unix.3ti.pl
 
-/STRONA NA TEMAT SYSTEMU UNIX I ICH POCHODNYCH
+#STRONA NA TEMAT SYSTEMU UNIX I ICH POCHODNYCH
 
 Napisane w czystym HTML,CSS i JavaScript.
 
@@ -16,6 +16,6 @@ Napisane w czystym HTML,CSS i JavaScript.
 > do pozycjonowania wykorzystałem właśćiwość CSS3 "Felx Box"
 > starałem wykorzystywać semantyczność HTML5 i metodologie BEM
 
-Całosć zajeło mi około 2 dnich, razem okolo 10h roboczogodizn.
+Całosć zajeło mi około 2 dni, razem okolo 10h roboczogodizn.
 
 Jakub Achtelik III TI
