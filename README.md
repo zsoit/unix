@@ -16,7 +16,7 @@ unix.3ti.pl
 > do pozycjonowania wykorzystałem właśćiwość CSS3 "Felx Box"
 > starałem wykorzystywać semantyczność HTML5 i metodologie BEM
 
-Całosć zajeła mi około 2 dni, razem około 10 roboczogodizn.
+Całosć zajeła mi około 10 roboczogodizn.
 Podpięte pod moją domenę przy pomocy GitHub Pages.
 
 Jakub Achtelik III TI
