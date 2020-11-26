@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 *,
@@ -16,12 +17,9 @@ body {
 
 .logo {
     color: white;
-    /* padding-left: 100px; */
 }
 
 .logo__header {
-    /* border: 2px solid white;  */
-    /* text-align: center; */
     padding: 5px;
 }
 
@@ -50,14 +48,13 @@ h3 {
     font-size: 25px;
     color: white;
     background-color: darkgreen;
-    /* width: 50%; */
 }
 
 
 /* FLEXBOX */
 
 .container {
-    padding: 10px;
+    padding: 15px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -68,17 +65,49 @@ h3 {
 }
 
 .gallery {
-    background-color: gray;
+    border: 1px solid gray;
+    color: white;
     min-width: 300px;
-    max-width: 600px;
-    margin: 20px;
+    max-width: auto;
+    padding: 40px;
+    background: linear-gradient(#e66465, #9198e5);
+    /* border: 1px solid white; */
 }
 
 .gallery__item {
-    background-color: gray;
     padding: 12px;
+}
+
+.urlISO {
+    color: white;
+    min-width: 300px;
+    padding: 40px;
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+#last {
+    /* min-width: 300px; */
+    min-width: 92%;
+    /* max-width: 1000px; */
+    background: transparent;
+    text-align: center;
+}
+
+.wrapper p {
+    padding-right: 15px;
 }
 
 a:hover {
     color: red;
+}
+
+ul,
+li {
+    color: white;
+    font-size: 21px;
+}
+
+i {
+    color: white;
+    font-family: arial;
 }
