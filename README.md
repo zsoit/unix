@@ -1,8 +1,8 @@
 unix.3ti.pl
 
-# STRONA NA TEMAT SYSTEMU UNIX I ICH POCHODNYCH
+# STRONA NA TEMAT :  SYSTEMY UNIX I ICH POCHODNE
 
-Napisane w czystym HTML,CSS i JavaScript.
+## Napisane w czystym HTML,CSS i JavaScript.
 
 > Najważniejszą funkcją jest rozwijane hamburger menu z odnośnikami do poszczególnych cześći strony w formie listy
 - w pliku hamburger.js zrealizowałem funkcje, która  poprzez kliknięcie wywołuje odpowiedni selektor w CSS
@@ -16,7 +16,7 @@ Napisane w czystym HTML,CSS i JavaScript.
 > do pozycjonowania wykorzystałem właśćiwość CSS3 "Felx Box"
 > starałem wykorzystywać semantyczność HTML5 i metodologie BEM
 
-Całosć zajeło mi około 2 dni, razem okolo 10h roboczogodizn.
-Podpięte pod moją domene przy pomocy GitHub Pages.
+Całosć zajeła mi około 2 dni, razem około 10 roboczogodizn.
+Podpięte pod moją domenę przy pomocy GitHub Pages.
 
 Jakub Achtelik III TI
